@@ -19,7 +19,7 @@ but allows subclasses to alter the type of objects that will be created.
 - when you want to provide users of your library or framework with a way to extend its internal components.
 - when you want to save system resources by reusing existing objects instead of rebuilding them each time.
 
-## example hierarchy 
+## Example hierarchy 
 
 ![Factory_Example_Diagram](https://user-images.githubusercontent.com/46675705/99160231-51ff8a80-26e5-11eb-81e2-b53e459ef846.png)
 
