@@ -8,7 +8,7 @@
 
 By the name we can guess it produces or creates something, in our case objects. 
 Factory pattern is one of the most used design patterns in Java. This type of design pattern comes under creational pattern
-as this pattern provides one of the best ways to create an object
+it provides one of the best ways to create an object
 it provides an interface / abstract class for creating objects in a superclass, 
 but allows subclasses to alter the type of objects that will be created.
 
